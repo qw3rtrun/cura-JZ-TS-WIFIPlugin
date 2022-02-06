@@ -1,0 +1,11 @@
+{
+    "name": "JZ-TS WIFI Connection",
+    "author": "Looming",
+    "description": "Manager your printer be equipped with JZ-TS LCD via WIFI",
+    "version": "1.0.1",
+    
+	"api": "6",
+    "supported_sdk_versions": ["6.0.0", "7.0.0"],
+	"catalog": "FlyingBear",
+    "i18n-catalog": "FlyingBear"
+}
